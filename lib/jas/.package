@@ -7,16 +7,16 @@
   (root "src")
   (products (jas-all (dependencies jazz.associative
                                    jazz.debuggee
-				   jazz.event
+                                   jazz.event
                                    jazz.io
-				   jazz.network
-				   jazz.platform
-				   jazz.process
-				   jazz.settings
-				   jazz.syntax
-				   jazz.time
-				   jazz.version
-				   jazz.zlib
-				   srfi-19
+                                   jazz.network
+                                   jazz.platform
+                                   jazz.process
+                                   jazz.settings
+                                   jazz.syntax
+                                   jazz.time
+                                   jazz.version
+                                   jazz.zlib
+                                   srfi-19
                                    jas
                                    jas-server))))
