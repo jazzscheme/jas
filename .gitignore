@@ -1,0 +1,10 @@
+/bin
+/binaries
+/build
+/cache
+/jazz
+/*.patch
+.configuration
+.jaz
+.jazzini
+.DS_Store
