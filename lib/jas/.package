@@ -1,0 +1,9 @@
+(package jas
+  
+  (title "Jas")
+  (description "Jas client and server")
+  (authors "Guillaume Cartier")
+  (stage alpha)
+  (root "src")
+  (products (together-all (dependencies jas
+                                        jas-server))))
