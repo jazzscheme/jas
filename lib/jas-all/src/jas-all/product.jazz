@@ -68,6 +68,7 @@
      (initialize-aliases)
      (install-application descriptor install-dir
        name: installation-dirname
+       executable?: #f
        files: '("jas")))))
 
 
